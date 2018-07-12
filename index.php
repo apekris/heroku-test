@@ -1,1 +1,1 @@
-heroku-test @ anywhere 200
+heroku-test @ anywhere v2 200
