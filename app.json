@@ -1,6 +1,7 @@
 {
   "name": "heroku-test",
   "scripts": {
+    "test" : "/bin/true"
   },
   "env": {
   },
